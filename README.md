@@ -21,4 +21,4 @@ C++
 Qt Framework (Qt Widgets)
 
 
-<img width="1562" height="1716" alt="image" src="https://github.com/user-attachments/assets/cabed355-ccd1-4131-8047-0db55d342eae" />
+<img width="156" height="171" alt="image" src="https://github.com/user-attachments/assets/cabed355-ccd1-4131-8047-0db55d342eae" />
